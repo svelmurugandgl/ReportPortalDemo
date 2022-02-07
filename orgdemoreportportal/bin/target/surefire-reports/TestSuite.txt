@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 19.007 s <<< FAILURE! - in TestSuite
+reportportal.test.TestNGTest.OpenBrowser  Time elapsed: 1.881 s  <<< FAILURE!
+java.lang.AssertionError: Titles of the website do not match expected [Google Website] but found [Google]
+	at reportportal.test.TestNGTest.OpenBrowser(TestNGTest.java:24)
+
